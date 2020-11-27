@@ -17,3 +17,5 @@ Recreation of Flappy Bird in LÖVE engine provided by Harvard's CS50's Introduct
 URL: https://cs50.harvard.edu/games/2018/assignments/1/
 
 Code can be searched with the '(specification)' tag.
+
+Pause and Trophy Images are made with the help of Piksel app: https://www.piskelapp.com/download 
