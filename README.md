@@ -1,6 +1,6 @@
 # CS50-FIFTY-BIRD
 
-## assignment0
+## assignment1
 
 Recreation of Flappy Bird in LÖVE engine provided by Harvard's CS50's Introduction to Game Development Online Course with some additions and modifications.
 
