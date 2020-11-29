@@ -44,6 +44,11 @@ end
 function Bird:update(dt)
     self.dy = self.dy + GRAVITY * dt
 
+    if self.y < 0 then
+        self.y = 1
+        self.dy = self.dy + 1 * dt
+    end
+
     -- burst of anti-gravity when space or left mouse are pressed
     if love.keyboard.wasPressed('space') or love.mouse.wasPressed(1) then
         self.dy = -1
